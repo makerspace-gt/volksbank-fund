@@ -21,9 +21,9 @@
 >
 > ### So nehmt ihr an der Verlosung teil
 >
-> - 1. Gleich hier unten auf den Button "Jetzt Verein anmelden" klicken
-> - 2. In das Formular die benötigten Informationen eures Vereins eintragen
-> - 3. Am 09. Juni um 19.30 Uhr per Stream auf Facebook die Auslosung live mitverfolgen
+> 1. Gleich hier unten auf den Button "Jetzt Verein anmelden" klicken
+> 2. In das Formular die benötigten Informationen eures Vereins eintragen
+> 3. Am 09. Juni um 19.30 Uhr per Stream auf Facebook die Auslosung live mitverfolgen
 >
 > [Jetzt Verein anmelden](https://docs.google.com/forms/d/1xY-8wGORCS6A4NkY6VdXy6kggKCYCpU3-4Vmm-N8iAI/edit)
 >
