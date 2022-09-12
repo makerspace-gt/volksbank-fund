@@ -22,23 +22,23 @@ Förderung von Wissenschaft, Forschung und Bildung, sowie der Kunst und Kultur /
 gemeinnütziger eingetragener Verein
 
 #### Jahresbudget
-7.906,77 € (2019)
+12.900 € (2021)
 
 #### Anzahl der Mitglieder
-23
+25
 
 #### Anzahl der Abteilungen
-6
+8
 
 #### Wurden Sie in den vergangenen Jahren bereits durch die Volksbank Bielefeld-Gütersloh die Volksbank Gütersloh oder die Bielefelder Volksbank gefördert?
-- [ ] Ja
-- [x] Nein
+- [x] Ja
+- [ ] Nein
 
 #### Welche Werbemöglichkeiten bieten Sie an?
 - [ ] Anzeigen
 - [ ] Banner
 - [x] Internetseite
-- [ ] Plakate
+- [x] Plakate
 
 #### Sind Sie damit einverstanden, dass das Logo Ihres Vereins zur Bekanntmachung der Partnerschaft in unseren Medien genutzt wird?
 - [x] Ja
@@ -70,13 +70,13 @@ gemeinnütziger eingetragener Verein
 - monatliches Repair Café bei dem meist ältere Gäste Gegenstände zum reparieren anbieten und diese mit meist jungen Mitgliedern durchführen
 
 #### Wie öffnet sich Ihr Verein für sein Umfeld? (z.B. Anzahl Abteilungen, Vereinsheim, Vereinszeitung)
-- 6 Werkstattbereiche (Elektronik, 3D-Druck, Computer, Laser, Fräse, Textil)
+- 8 Werkstattbereiche (Elektronik, 3D-Druck, Computer, Laser, Holz, Textil, Audio/Video, Virtual Reality)
 - offene Community Runde zur Besprechung der Vereinsarbeit jeden Mittwoch
 - monatlicher Stammtisch zum Kennenlernen und Plaudern
 - offene Werkstatt für nicht Mitglieder am Samstag oder nach Absprache
 - Zusammenarbeit von Mitgliedern mit verschiedenen Kenntnisständen
 
 #### In welchen Punkten sehen Sie Ihren Verein als besonders zukunftsorientiert?
-- Befähigen von Personen im Umgang mit verschiedenen Maschinen, Werkzeugen & Technologien
+- Befähigen und Ermutigen von Personen im Umgang mit verschiedenen Maschinen, Werkzeugen & Technologien
 - fördern der Kreativität und Neugierde von Mitgliedern
 - die Ausrichtung des Vereins animiert Mitglieder und Gäste zu einer Ausbildung oder einem Studium im MINT Bereich
