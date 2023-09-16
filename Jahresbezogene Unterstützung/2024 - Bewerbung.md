@@ -22,10 +22,10 @@ Förderung von Wissenschaft, Forschung und Bildung, sowie der Kunst und Kultur /
 gemeinnütziger eingetragener Verein
 
 #### Jahresbudget
-12.900 € (2021)
+11.100 € (2022)
 
 #### Anzahl der Mitglieder
-25
+33
 
 #### Anzahl der Abteilungen
 8
@@ -67,13 +67,13 @@ gemeinnütziger eingetragener Verein
 - erklären der Maschinen und Werkzeuge, wenn wir von Schulklassen besucht werden
 
 #### Welche Beispiele gibt es aus den Bereichen generationenübergreifende Projekte, Integration und Inklusion?
-- monatliches Repair Café bei dem meist ältere Gäste Gegenstände zum reparieren anbieten und diese mit meist jungen Mitgliedern durchführen
+- monatliches Repair Café, bei dem meist ältere Gäste Gegenstände zum Reparieren anbieten und diese mit meist jungen Mitgliedern durchführen
 
 #### Wie öffnet sich Ihr Verein für sein Umfeld? (z.B. Anzahl Abteilungen, Vereinsheim, Vereinszeitung)
 - 8 Werkstattbereiche (Elektronik, 3D-Druck, Computer, Laser, Holz, Textil, Audio/Video, Virtual Reality)
 - offene Community Runde zur Besprechung der Vereinsarbeit jeden Mittwoch
 - monatlicher Stammtisch zum Kennenlernen und Plaudern
-- offene Werkstatt für nicht Mitglieder am Samstag oder nach Absprache
+- offene Werkstatt für nicht Mitglieder am Sonntag oder nach Absprache
 - Zusammenarbeit von Mitgliedern mit verschiedenen Kenntnisständen
 
 #### In welchen Punkten sehen Sie Ihren Verein als besonders zukunftsorientiert?
